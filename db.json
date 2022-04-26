@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "clientes": [
+    {
+      "numOs": "BB00001",
+      "nome": "jefferson rocha da silva ",
+      "email": "jefferson.net.com",
+      "senha": "123",
+      "contratacao": "2018",
+      "funcao": "ajudante",
+      "id": 1
+    },
+    {
+      "numOs": "BB00002",
+      "nome": "Juliana camargo silva",
+      "email": "juliana.camargo.com",
+      "senha": "123",
+      "contratacao": "2003",
+      "funcao": "gerente",
+      "id": 2
+    },
+    {
+      "numOs": "BB00002",
+      "nome": "gustavo gonçalves rocha",
+      "email": "gustavo.gonçalves.com",
+      "senha": "123",
+      "contratacao": "2010",
+      "funcao": "administrador",
+      "id": 3
+    },
+    {
+      "numOs": "BB00003",
+      "nome": "Maria da silva romeiro",
+      "email": "maria.silva.com",
+      "senha": "123",
+      "contratacao": "2022",
+      "funcao": "faxineiro",
+      "id": 4
+    }
+  ]
+}
